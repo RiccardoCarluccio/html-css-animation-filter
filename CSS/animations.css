@@ -36,3 +36,19 @@
   transition-duration: 3s;
   transition-timing-function: ease-out;
 }
+
+.ex-6-img:hover {
+  filter: grayscale(1);
+}
+
+/* .ex-7-img {
+
+} */
+
+/* .ex-8-img {
+
+} */
+
+/* .ex-9-img {
+
+} */
