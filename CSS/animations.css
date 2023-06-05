@@ -41,9 +41,11 @@
   filter: grayscale(1);
 }
 
-/* .ex-7-img {
-
-} */
+.ex-7-img:hover {
+  filter: hue-rotate(0.5turn);
+  filter: invert(100%);
+  transition-duration: 3s;
+}
 
 /* .ex-8-img {
 
