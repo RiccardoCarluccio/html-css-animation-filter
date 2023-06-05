@@ -79,7 +79,7 @@
   }
 }
 
-.ex-11-icon {
+.ex-11-icon:hover {
   animation: go-back-rotation 1s linear infinite;
 }
 
