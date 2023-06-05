@@ -54,6 +54,13 @@
   transition-duration: 3s;
 }
 
-/* .ex-9-img {
-
-} */
+.ex-9-img:hover {
+  width: 500px;
+  height: auto;
+  margin: 0;
+  filter: hue-rotate(0.5turn);
+  filter: invert(100%);
+  border-radius: 25px;
+  transition-duration: 3s;
+  transition-timing-function: ease-out;
+}
