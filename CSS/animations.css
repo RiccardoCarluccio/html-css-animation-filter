@@ -21,6 +21,18 @@
   transition-timing-function: ease-in;
 }
 
-/* .ex-5-square: {
+.ex-5-square:hover {
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  transition-duration: 3s;
+  transition-timing-function: ease-out;
+}
 
-} */
+.ex-5-square:active {
+  width: 50px;
+  height: 50px;
+  margin: 24px;
+  transition-duration: 3s;
+  transition-timing-function: ease-out;
+}
