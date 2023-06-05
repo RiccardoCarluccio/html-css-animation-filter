@@ -64,3 +64,29 @@
   transition-duration: 3s;
   transition-timing-function: ease-out;
 }
+
+.ex-10-icon {
+  animation: simple-rotation 1s linear infinite;
+}
+
+@keyframes simple-rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* .ex-11-icon {
+
+} */
+
+/* .ex-12-icon {
+
+} */
+
+/* .ex-13-icon {
+
+} */
