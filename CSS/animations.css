@@ -15,9 +15,11 @@
   transition-timing-function: ease-out;
 }
 
-/* .ex-4-square: {
-
-} */
+.ex-4-square:hover {
+  opacity: 0%;
+  transition-duration: 1.5s;
+  transition-timing-function: ease-in;
+}
 
 /* .ex-5-square: {
 
