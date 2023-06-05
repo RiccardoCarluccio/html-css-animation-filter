@@ -97,10 +97,48 @@
   }
 }
 
-/* .ex-12-icon {
+.ex-12-top-white {
+  animation: tuz-tuz-top 1s linear infinite;
+}
 
-} */
+@keyframes tuz-tuz-top {
+  0% {
+    top: -10px;
+    left: 10%;
+  }
 
-/* .ex-13-icon {
+  50% {
+    top: -10px;
+    left: 60%;
+  }
 
+  100% {
+    top: -10px;
+    left: 10%;
+  }
+}
+
+.ex-12-bottom-white {
+  animation: tuz-tuz-bottom 1s linear infinite;
+}
+
+@keyframes tuz-tuz-bottom {
+  0% {
+    bottom: -10px;
+    right: 20%;
+  }
+
+  50% {
+    bottom: -10px;
+    right: 43%;
+  }
+
+  100% {
+    bottom: -10px;
+    right: 20%;
+  }
+}
+
+/* .ex-13- {
+  animation: do-a-barrel-roll 1s linear infinite;
 } */
