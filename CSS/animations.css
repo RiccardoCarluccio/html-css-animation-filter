@@ -2,3 +2,21 @@
   background-color: red;
   transition-duration: 1.5s;
 }
+
+.ex-2-square:active {
+  width: 1100px;
+  transition-duration: 3s;
+  transition-timing-function: ease-out;
+}
+
+/* .ex-3-square: {
+
+} */
+
+/* .ex-4-square: {
+
+} */
+
+/* .ex-5-square: {
+
+} */
