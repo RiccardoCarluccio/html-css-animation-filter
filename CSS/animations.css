@@ -9,9 +9,11 @@
   transition-timing-function: ease-out;
 }
 
-/* .ex-3-square: {
-
-} */
+.ex-3-square:hover {
+  border-radius: 50%;
+  transition-duration: 1.5s;
+  transition-timing-function: ease-out;
+}
 
 /* .ex-4-square: {
 
